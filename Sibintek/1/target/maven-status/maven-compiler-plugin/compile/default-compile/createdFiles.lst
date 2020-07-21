@@ -1,0 +1,9 @@
+com\testjobs\notasoft\controls\EventsController.class
+com\testjobs\notasoft\DAO\EventsEntity.class
+com\testjobs\notasoft\services\EventsService.class
+com\testjobs\notasoft\controls\Controler.class
+com\testjobs\notasoft\DAO\EventclassesEntity.class
+com\testjobs\notasoft\repositories\EventsClassesRepository.class
+com\testjobs\notasoft\repositories\EventsRepository.class
+com\testjobs\notasoft\Application.class
+com\testjobs\notasoft\services\EventsServiceImpl.class
